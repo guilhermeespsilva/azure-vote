@@ -5,7 +5,8 @@ import redis
 import socket
 import sys
 import logging
-from datetime import datetime
+from datetime import datetime 
+
 
 # App Insights
 # TODO: Import required libraries for App Insights
